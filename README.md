@@ -15,7 +15,7 @@ Crypto-Tracker allows users to view the latest market prices for cryptocurrencie
 1. Clone the repository
 
 ```sh
-git clone https://github.com/<username>/Crypto-Tracker.git
+git clone https://github.com/prajwalda/Crypto-Tracker.git
 ```
 
 2. Install dependencies
